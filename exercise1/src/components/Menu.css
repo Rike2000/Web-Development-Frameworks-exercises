@@ -1,0 +1,17 @@
+.Menu
+{
+    display: flex;
+    background-color: beige;
+    margin: auto;
+    width: auto;
+    padding-left: 25%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+
+}
+
+.Menu_item
+{
+    margin-left: 10px;
+}

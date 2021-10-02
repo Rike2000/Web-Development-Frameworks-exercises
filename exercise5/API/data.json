@@ -1,0 +1,60 @@
+{
+    "items": [
+      {
+        "id": "1",
+        "name": "Sceptre E248W-19203R 24'",
+        "type": "Monitor",
+        "price": 139.97,
+        "rating": "★★",
+        "image": "https://m.media-amazon.com/images/I/71rXSVqET9L._AC_SX450_.jpg",
+        "desc": "Ultra Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Metallic Black 2018"
+       
+      },
+      {
+        "id": "2",
+        "name": "Roku Ultra | Streaming Device",
+        "type": "electronics",
+        "price": 25.16,
+        "rating": "★",
+        "image": "https://m.media-amazon.com/images/I/71egutYJFyL._AC_SY355_.jpg",
+        "desc":"HD/4K/HDR/Dolby Vision with Dolby Atmos, Bluetooth Streaming, and Roku Voice Remote with Headphone Jack "
+      },
+      {
+        "id": "3",
+        "name": "Logitech C920x HD Pro Webcam",
+        "type": "Web-camera",
+        "price": 68.59,
+        "rating": "★★",
+        "image": "https://m.media-amazon.com/images/I/71iNwni9TsL._AC_SS450_.jpg",
+        "desc": "Full HD 1080p/30fps Video Calling, Clear Stereo Audio, HD Light Correction, Works with Skype, Zoom, FaceTime, Hangouts..."
+      },
+      {
+        "id": "4",
+        "name": "Logitech H390 Wired Headset",
+        "type": "Headphones",
+        "price": 17.99,
+        "rating": "★★★",
+        "image": "https://m.media-amazon.com/images/I/51BpQXB7TVL._AC_SY355_.jpg",
+        "desc": "Stereo Headphones with Noise-Cancelling Microphone, USB, In-Line Controls, PC/Mac/Laptop - Black"
+      },
+      {
+        "id": "5",
+        "name": "WD 2TB Elements Portable External Hard Drive HDD",
+        "type": "Hard-drive",
+        "price": 59.26,
+        "rating": "★★★★",
+        "image": "https://m.media-amazon.com/images/I/71VB--jaeSL._AC_SY450_.jpg",
+        "desc": "USB 3.0, Compatible with PC, Mac, PS4 & Xbox - WDBU6Y0020BBK-WESN"
+      },
+      {
+        "id": "6",
+        "name": "SanDisk 128GB Extreme microSDXC UHS-I",
+        "type": "SD-card",
+        "price": 21.98,
+        "rating": "★★★",
+        "image": "https://m.media-amazon.com/images/I/815cRpgAN3L._AC_SX450_.jpg",
+        "desc": "Memory Card with Adapter - Up to 160MB/s, C10, U3, V30, 4K, A2, Micro SD - SDSQXA1-128G-GN6MA"
+      }
+      
+    ]
+  }

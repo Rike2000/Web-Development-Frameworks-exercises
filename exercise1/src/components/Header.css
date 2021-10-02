@@ -1,0 +1,22 @@
+.container
+{
+    color: aliceblue;
+    display: flex;
+    background-color: rgb(0, 25, 76);
+    margin: auto;
+    width: auto;
+    padding-left: 25%;
+
+}
+
+.list
+{
+    padding-top: 30px;
+    display: flex;
+    padding-left: 200px;
+    padding-right: 15px;
+}
+
+.list_item{
+    margin-left: 10px;
+  }

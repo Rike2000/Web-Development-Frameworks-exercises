@@ -1,0 +1,30 @@
+.mrContainer
+{
+    background-color: bisque;
+    margin-left: 5%;
+    width: 390px;
+    margin-bottom: 40px;
+}
+
+.news
+{
+    display:flex; 
+    flex-direction:row;
+}
+
+.number
+{
+    margin-left: -110px;
+    margin-right: 20px;
+    font-size: 30px;
+    color: rgb(65, 150, 164);
+}
+
+.content
+{
+    padding-left: 60px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+
+}
+
