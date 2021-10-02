@@ -45,16 +45,29 @@ class App extends React.Component {
 
 if (this.state.productPrice25) {
 
-        output = <SearchView items={ this.state.items.filter((item) => item.price < 25) }/>   
+  output = <>
+            <button onClick={() => window.location.reload()}>Go back</button>
+            <SearchView items={ this.state.items.filter((item) => item.price < 25) }/>
+           </>
+           
 }
 if (this.state.productPrice25to50) {
-        output = <SearchView items={ this.state.items.filter((item) => item.price > 25 && item.price < 50)}/>
+  output = <>
+            <button onClick={() => window.location.reload()}>Go back</button>
+            <SearchView items={ this.state.items.filter((item) => item.price > 25 && item.price < 50)}/>
+           </>
 }
 if (this.state.productPrice50to100) {
-        output = <SearchView items={ this.state.items.filter((item) => item.price > 50 && item.price < 100) }/>
+  output = <>
+            <button onClick={() => window.location.reload()}>Go back</button>
+            <SearchView items={ this.state.items.filter((item) => item.price > 50 && item.price < 100) }/>
+           </>
 }
 if (this.state.productPrice100to200) {
-        output = <SearchView items={ this.state.items.filter((item) => item.price > 100 && item.price < 200) }/>
+  output = <>
+            <button onClick={() => window.location.reload()}>Go back</button>
+            <SearchView items={ this.state.items.filter((item) => item.price > 100 && item.price < 200) }/>
+           </>
 }
 
     return (
