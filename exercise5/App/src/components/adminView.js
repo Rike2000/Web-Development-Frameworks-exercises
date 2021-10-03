@@ -26,15 +26,18 @@ export default function AdminView(props) {
     var buttons = document.querySelectorAll("button.number-button")
     var star ="★";
 
+    if (input.value === "★★★★★") {
+      input.value = null;
+    }
+
     for (let index = 0; index < buttons.length; index++) {
       input.value = star + input.value;
     }
 
+
     setNewItemRating(input.value)
-    if (input.value === "★★★★★★") {
-      input.value = star;
-      
-    }
+
+    
 
 
   }
