@@ -31,6 +31,10 @@ export default function AdminView(props) {
     }
 
     setNewItemRating(input.value)
+    if (input.value === "★★★★★★") {
+      input.value = star;
+      
+    }
 
 
   }
